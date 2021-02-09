@@ -1,2 +1,2 @@
 # vaccine_roafmap
-Illustration of vaccine registration roadmap for LA county
+Interactive vaccine registration roadmap for LA county
